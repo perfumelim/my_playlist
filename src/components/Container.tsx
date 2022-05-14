@@ -13,6 +13,7 @@ export default AppLayout;
 
 const Container = styled.div`
   display: flex;
+  align-items: center;
   justify-content: center;
   &::-webkit-scrollbar {
     display: none;
